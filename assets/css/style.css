@@ -5,6 +5,14 @@
 * License: https://bootstrapmade.com/license/
 */
 
+/* 3D Animation */
+.webgl
+{
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -16,7 +24,7 @@ body {
   background: transparent;
 }
 
-body::before {
+/* body::before {
   content: "";
   position: fixed;
   background: #040404 url("../img/bg.jpg") top right no-repeat;
@@ -26,7 +34,7 @@ body::before {
   top: 0;
   height: 100vh;
   z-index: -1;
-}
+} */
 
 @media (min-width: 1024px) {
   body::before {
