@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA,iBAAiB;AACjB;;EAEE,eAAe;EACf,MAAM;EACN,OAAO;AACT,C","sources":["webpack:///./src/style.css"],"sourcesContent":["/* 3D Animation */\n.webgl\n{\n  position: fixed;\n  top: 0;\n  left: 0;\n}"],"names":[],"sourceRoot":""}
