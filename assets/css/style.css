@@ -1199,3 +1199,7 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+.clickable {
+  cursor: pointer
+}
